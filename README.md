@@ -13,6 +13,12 @@
 $ omf theme default
 ```
 
+If you use fundle, add
+
+```
+  fundle plugin 'kenchan0130/theme-default'
+```
+
 ## Features
 
 * All the things you need to know about Git in a glance.
